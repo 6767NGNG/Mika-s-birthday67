@@ -422,8 +422,8 @@ body {
 }
 .decorate_bottom{
     position: absolute;
-    right: 0;
-    bottom: -10px;
+    right: 220;
+    bottom: 180px;
 }
 .decorate_flower--one{
     position: absolute;

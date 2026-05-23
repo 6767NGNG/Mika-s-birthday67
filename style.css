@@ -159,6 +159,7 @@ body {
 }
 .title .birthday{
     color: var(--color-text-pink);
+    transform: translateX(60px);
 }
 
 .title .hat{

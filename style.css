@@ -970,7 +970,7 @@ body {
 }
 .boxMail .boxMail-container .card2 .card2-content .imageCute2{
     position: absolute;
-    top: -80px;
+    top: 80px;
     left: 50px;
     opacity: 0;
     transition: 1s;
